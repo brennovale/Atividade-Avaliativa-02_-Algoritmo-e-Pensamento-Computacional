@@ -1,0 +1,1 @@
+# Atividade-Avaliativa-02_-Algoritmo-e-Pensamento-Computacional
