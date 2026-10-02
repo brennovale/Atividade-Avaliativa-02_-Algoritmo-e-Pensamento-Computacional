@@ -1,15 +1,3 @@
-# Atividade Avaliativa 02 — Criptografia em C
-
-Projeto desenvolvido para a disciplina de **Algoritmo e Pensamento Computacional**, sob orientação do **Prof. Francisco de Assis Cavallaro**.
-
----
-
-## Integrantes do grupo
-Andrey Azevedo Veloso RGM 50061194 | 
-Brenno Lima do Vale RGM 50065149
-
----
-
 ## Sobre o Projeto
 O objetivo da aplicação é realizar a criptografia de uma palavra secreta (de até 15 letras) unindo conceitos de programação em C e matemática aplicada através de duas camadas de proteção:
 
@@ -27,7 +15,7 @@ O usuário pode escolher entre 4 opções de progressões e séries:
 
 ---
 
-# Atividade Avaliativa 02 — Criptografia Multicamada em C
+# Atividade Avaliativa 02 — Criptografia em C
 
 Projeto desenvolvido para a disciplina de **Algoritmo e Pensamento Computacional**, sob orientação do **Prof. Francisco de Assis Cavallaro**.
 
