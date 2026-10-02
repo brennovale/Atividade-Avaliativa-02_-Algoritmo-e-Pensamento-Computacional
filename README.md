@@ -5,7 +5,7 @@ Projeto desenvolvido para a disciplina de **Algoritmo e Pensamento Computacional
 ---
 
 ## Integrantes do grupo
-Andrey Azevedo Veloso RGM 50061194
+Andrey Azevedo Veloso RGM 50061194 | 
 Brenno Lima do Vale RGM 50065149
 
 ---
@@ -20,10 +20,10 @@ O objetivo da aplicação é realizar a criptografia de uma palavra secreta (de 
 
 ## Sequências Matemáticas Suportadas
 O usuário pode escolher entre 4 opções de progressões e séries:
-* **PA (Progressão Aritmética):** Termos incrementados linearmente ($1, 2, 3, 4, \dots$).
-* **PG (Progressão Geométrica):** Termos multiplicados por razão 2 ($1, 2, 4, 8, \dots$).
-* **Série de Fibonacci:** Cada termo é a soma dos dois anteriores ($1, 1, 2, 3, 5, 8, 13, \dots$).
-* **Números Primos:** Sequência com os primeiros números primos ($2, 3, 5, 7, 11, \dots$).
+* **PA (Progressão Aritmética):** Termos incrementados linearmente (1, 2, 3, 4, ...).
+* **PG (Progressão Geométrica):** Termos multiplicados por razão 2 (1, 2, 4, 8, ...).
+* **Série de Fibonacci:** Cada termo é a soma dos dois anteriores (1, 1, 2, 3, 5, 8, 13, ...).
+* **Números Primos:** Sequência com os primeiros números primos (2, 3, 5, 7, 11, ...).
 
 ---
 
