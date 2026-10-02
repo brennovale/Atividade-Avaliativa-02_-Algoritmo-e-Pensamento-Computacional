@@ -1,4 +1,4 @@
-# Atividade Avaliativa 02 — Criptografia Multicamada em C
+# Atividade Avaliativa 02 — Criptografia em C
 
 Projeto desenvolvido para a disciplina de **Algoritmo e Pensamento Computacional**, sob orientação do **Prof. Francisco de Assis Cavallaro**.
 
